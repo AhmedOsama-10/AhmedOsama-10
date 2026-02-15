@@ -1,171 +1,146 @@
-# 👋 Ahmed Osama | Business Intelligence & Data Analyst
+# 👋 Ahmed Osama  
+## Business Intelligence & Data Analyst
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+### 📊 About Me
 
 Data Analyst with a Computer Science background specializing in transforming raw data into structured insights that support business decision-making.
 
-I design end-to-end analytics solutions — from data extraction and modeling to interactive dashboards used for performance tracking and strategic analysis.
+I build end-to-end analytics solutions — from SQL data modeling to executive Power BI dashboards.
 
-🔹 **Focus Areas:** Business Intelligence, SQL Analytics, Data Modeling, Executive Reporting  
-🔹 **Tools:** SQL Server, Power BI (DAX), Python (Pandas), Excel (Power Query / Power Pivot)
-
----
-
-## 🎯 What I Do
-
-- Build **star schema data models** for scalable reporting  
-- Develop **executive dashboards** tracking revenue, growth, and performance KPIs  
-- Perform advanced SQL analysis using **CTEs, Window Functions, Views**  
-- Conduct exploratory data analysis (EDA) to uncover behavioral and revenue insights  
-- Translate technical findings into **business-oriented insights**
+🔹 Focus: Business Intelligence, Data Modeling, KPI Reporting  
+🔹 Strong in: SQL (Advanced Queries), Power BI (DAX), Python (EDA)
 
 ---
 
-# 📊 Featured Projects
+## 🚀 What I Do
+
+- Design **Star Schema data models**
+- Build **Executive KPI dashboards**
+- Write advanced SQL using **CTEs & Window Functions**
+- Perform data cleaning & EDA in Python
+- Translate technical analysis into business insights
 
 ---
 
-## 1️⃣ Customer Shopping Behavior Analysis (Python EDA)
-
-🔗 [Customer Shopping Mall Analysis](https://github.com/AhmedOsama-10/customer_shopping_mall)
-
-**Business Objective:**  
-Understand customer purchasing patterns and demographic spending behavior.
-
-**Dataset:** 99,000+ transactions
-
-### Key Work:
-- Data cleaning & preprocessing using Pandas  
-- Feature engineering (Age Groups segmentation)  
-- Category performance analysis  
-- Demographic-based revenue insights  
-
-### Business Insights:
-- Identified top revenue-generating categories  
-- Revealed demographic segments with highest purchasing power  
-- Highlighted seasonal and behavioral trends  
-
-**Tools:** Python, Pandas, Matplotlib, Seaborn
+# 📂 Featured Projects
 
 ---
 
-## 2️⃣ E-Commerce Sales Performance Dashboard (Power BI)
+## 📌 1. Customer Shopping Behavior Analysis (Python EDA)
+🔗 [View Repository](https://github.com/AhmedOsama-10/customer_shopping_mall)
 
-🔗 [E-Commerce Transactions Analysis](https://github.com/AhmedOsama-10/E-commerce-Transactions-Analysis)
+**Objective:** Analyze 99K+ transactions to understand demographic spending patterns.
 
-**Business Objective:**  
-Create an executive-level dashboard to monitor revenue growth, profitability, and regional performance.
+**Highlights:**
+- Data Cleaning & Feature Engineering
+- Category Revenue Analysis
+- Customer Segmentation by Age Group
+- Visual storytelling with Matplotlib & Seaborn
 
-**Dataset:** 1M+ transactions
-
-### Technical Implementation:
-- Designed a 6-table **Star Schema** data model  
-- Built a 6-page interactive dashboard  
-- Implemented advanced DAX measures:
-  - YOY Growth %
-  - QOQ Growth %
-  - MOM Growth %
-- Geographic drill-down analysis  
-
-### KPIs Tracked:
-- Revenue Growth  
-- Profit Margin  
-- Regional Performance  
-- Customer Contribution  
-
-**Tools:** Power BI, DAX, Data Modeling
+**Tools:** Python, Pandas, Visualization
 
 ---
 
-## 3️⃣ Advanced SQL Sales Analysis + Executive BI Dashboard
+## 📌 2. E-Commerce Sales Executive Dashboard (Power BI)
+🔗 [View Repository](https://github.com/AhmedOsama-10/E-commerce-Transactions-Analysis)
 
-🔗 [Advanced SQL Sales Performance Reporting](https://github.com/AhmedOsama-10/Advanced-SQL-for-Sales-Performance-Analysis-Reporting-View-Creation)
+**Objective:** Build a 6-page executive dashboard tracking revenue growth & performance.
 
-**Business Objective:**  
-Pre-process and structure sales data using SQL before connecting to BI tools for executive reporting.
+**Technical Highlights:**
+- 6-table Star Schema model
+- Advanced DAX (YOY%, QOQ%, MOM%)
+- Geographic drill-down analysis
+- 1M+ transactions analyzed
 
-### Technical Highlights:
-- Built SQL Views for:
-  - Customer segmentation  
-  - Product performance ranking  
-- Used:
-  - CTEs  
-  - Window Functions  
-  - Aggregation queries  
-- Delivered 12+ executive KPIs  
-
-**Outcome:**  
-Created structured reporting layer optimized for Power BI integration.
-
-**Tools:** SQL Server, Power BI
+**KPIs:**
+- Revenue Growth
+- Profit Margin
+- Regional Performance
+- Customer Contribution
 
 ---
 
-## 4️⃣ Coffee Sales Operational Analysis
+## 📌 3. Advanced SQL Sales Performance + BI Reporting
+🔗 [View Repository](https://github.com/AhmedOsama-10/Advanced-SQL-for-Sales-Performance-Analysis-Reporting-View-Creation)
 
-🔗 [Coffee Machine Sales Analysis](https://github.com/AhmedOsama-10/Coffee-Machine-Sales-Analysis)
+**Objective:** Pre-structure sales data using SQL for optimized reporting.
 
-**Business Objective:**  
-Analyze operational sales patterns to optimize product mix and peak-hour performance.
-
-### Key Findings:
-- 97% of revenue generated by only 7 products (Pareto 80/20 principle)  
-- Weekend vs weekday sales comparison  
-- Peak hour revenue analysis  
-
-**Business Value:**  
-Supports product optimization and operational scheduling decisions.
+**Technical Work:**
+- SQL Views for segmentation
+- CTEs & Window Functions
+- 12+ executive KPIs
+- BI integration layer
 
 ---
 
-## 5️⃣ Foundational SQL Sales Exploration
+## 📌 4. Coffee Sales Operational Dashboard
+🔗 [View Repository](https://github.com/AhmedOsama-10/Coffee-Machine-Sales-Analysis)
 
-🔗 [SQL EDA Project](https://github.com/AhmedOsama-10/EDA-using-SQL)
+**Insights Delivered:**
+- 97% revenue from 7 products (Pareto)
+- Peak hour analysis
+- Weekend vs weekday performance
 
-**Focus:**  
-Core SQL analytics including:
-- JOINS  
-- GROUP BY  
-- Aggregations  
-- Ranking logic  
+---
 
-### Calculated:
-- Top 5 products  
-- Top 10 customers  
-- Revenue distribution by category  
+## 📌 5. SQL Exploratory Sales Analysis
+🔗 [View Repository](https://github.com/AhmedOsama-10/EDA-using-SQL)
+
+**Core SQL Skills:**
+- JOINS
+- GROUP BY
+- Aggregations
+- Ranking & Segmentation
 
 ---
 
 # 🛠 Technical Skills
 
-## Business Intelligence
-- Power BI (DAX, Data Modeling, Power Query)  
-- Executive KPI Dashboard Development  
-- Star Schema Design  
+### Business Intelligence
+- Power BI (DAX, Data Modeling, Power Query)
+- Executive KPI Dashboard Development
+- Star Schema Design
 
-## Data Analysis
-- Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- Exploratory Data Analysis (EDA)  
+### Database & Querying
+- SQL Server
+- Advanced Queries
+- CTEs
+- Window Functions
+- Views
 
-## Database & Querying
-- SQL Server  
-- Advanced Queries  
-- CTEs  
-- Window Functions  
-- View Creation  
-- Performance Optimization  
+### Data Analysis
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Exploratory Data Analysis (EDA)
 
-## Other
-- Excel (Power Pivot, Power Query)  
-- Currently Learning: Data Pipelines & ML Foundations  
-
----
-
-# 📈 Career Objective
-
-Seeking a **Junior Data Analyst / BI Developer** role where I can apply my technical skills to solve real business problems and contribute to data-driven decision making.
+### Other Tools
+- Excel (Power Pivot, Power Query)
+- Learning: Data Pipelines & ML Foundations
 
 ---
 
-# 📫 Contact
+# 📊 GitHub Stats
+
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedOsama-10&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedOsama-10&layout=compact)
+
+---
+
+# 🎯 Career Objective
+
+Seeking a **Junior Data Analyst / BI Developer** role where I can apply technical skills to solve business problems and contribute to data-driven decision making.
+
+---
+
+# 📫 Connect With Me
 
 📧 Email: **mr.ahmedosamaa@gmail.com**  
 🔗 LinkedIn: https://linkedin.com/in/ahmedosamaaashour  

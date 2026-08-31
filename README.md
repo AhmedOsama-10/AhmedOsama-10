@@ -126,16 +126,6 @@ I build end-to-end analytics solutions — from SQL data modeling to executive P
 
 ---
 
-# 📊 GitHub Stats
-
-![Ahmed's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AhmedOsama-10&show_icons=true)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AhmedOsama-10&layout=compact)
-
-
-
----
-
 # 🎯 Career Objective
 
 Seeking a **Junior Data Analyst / BI Developer** role where I can apply technical skills to solve business problems and contribute to data-driven decision making.
